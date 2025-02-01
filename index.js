@@ -31,7 +31,7 @@ function addGamesToPage(games) {
     // loop over each item in the data
     for (let i=0; i<games.length; i++) {
         let game = games[i];
-        console.log(games[i]);
+        //console.log(games[i]);
 
         // create a new div element, which will become the game card
         const gameCard = document.createElement("div");
@@ -121,7 +121,7 @@ function filterFundedOnly() {
     let fundedGames = GAMES_JSON.filter( (game) => {
         return game.pledged >= game.goal;
     });
-    console.log(`Funded games: ${fundedGames.length}`);
+    //console.log(`Funded games: ${fundedGames.length}`);
 
     // use the function we previously created to add unfunded games to the DOM
     addGamesToPage(fundedGames);
@@ -182,7 +182,7 @@ const sortedGames =  GAMES_JSON.sort( (item1, item2) => {
 
 // use destructuring and the spread operator to grab the first and second games
 const [firstGame, secondGame, ...nextGames] = sortedGames;
-console.log(firstGame, secondGame);
+//console.log(firstGame, secondGame);
 
 // create a new element to hold the name of the top pledge game, then append it to the correct element
 let topFundedGame = document.createElement("h2");
