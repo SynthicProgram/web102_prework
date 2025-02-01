@@ -1,4 +1,4 @@
-# WEB102 Prework - *Syphon*
+# WEB102 Prework - *Syphon (Sea Monster Crowdfunding)*
 
 Submitted by: **Eric**
 
@@ -38,6 +38,8 @@ GIF created with ... ScreenToGif
 
 Not only did I brush up on my HTML/CSS/JS skills, I also learned how to scroll into view. Not sure how I never got the chance before..
 Also screentogif is awesome, I didn't know this existed before
+
+*My Web Portfolio: https://eric-portfolio-l7mb.onrender.com/index.html*
 
 ## License
 
