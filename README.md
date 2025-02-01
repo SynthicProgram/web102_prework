@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Syphon*
 
-Submitted by: **Your Name Here**
+Submitted by: **Eric**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Syphon** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -17,7 +17,9 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] Navbar with stats and game section scrolling
+* [ ] Search bar for name querying
+* [ ] More consistent UI/UX
 
 ## Video Walkthrough
 
@@ -34,11 +36,12 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Not only did I brush up on my HTML/CSS/JS skills, I also learned how to scroll into view. Not sure how I never got the chance before..
+Also screentogif is awesome, I didn't know this existed before
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [SynthicProgram]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
